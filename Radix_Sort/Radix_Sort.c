@@ -1,4 +1,4 @@
-nclude<iostream>
+#include<iostream>
 using namespace std;
  
 // A utility function to get maximum value in arr[]
